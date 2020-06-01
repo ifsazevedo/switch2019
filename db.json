@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "groups": [
+    { "id": 1, "description": "Group 1" },
+    { "id": 2,  "description": "Group 2" },
+    { "id": 3,  "description": "Group 2" },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "persons": [
+    { "id": 1, "name": "ana" },
+    { "id": 2, "name": "joão" }
+  ]
+
 }
