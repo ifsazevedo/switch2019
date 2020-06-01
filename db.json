@@ -1,8 +1,8 @@
 {
   "groups": [
     { "id": 1, "description": "Group 1" },
-    { "id": 2,  "description": "Group 2" },
-    { "id": 3,  "description": "Group 2" }
+    { "id": 2, "description": "Group 2" },
+    { "id": 3, "description": "Group 3" }
   ],
   "persons": [
     { "id": 1, "name": "ana" },
